@@ -6,7 +6,7 @@ function App() {
       <h1>Chat App</h1>
       
       <div className="row">
-
+        <div className="col-4"></div>
       </div>
 
       <input
