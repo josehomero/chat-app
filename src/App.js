@@ -6,7 +6,9 @@ function App() {
       <h1>Chat App</h1>
       
       <div className="row">
-        <div className="col-4"></div>
+        <div className="col-3 p-3 mb-2 bg-success text-white" height="7000" >
+          <h1>Word up</h1>
+        </div>
       </div>
 
       <input
